@@ -1,3 +1,4 @@
+'''NOW ON GITHUB LOL'''
 import os
 import sys
 import time
